@@ -7,7 +7,7 @@
         </object>
         <mxCell id="1" parent="0" />
         <mxCell id="taiZRPC4KZry2tKcoWq6-95" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=22;arrowHead=70;dx2=35;strokeColor=#ffffff;fillColor=#12AAB5;fontSize=12;fontColor=#3333FF;flipH=1;flipV=1;strokeWidth=4;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="960" y="516" width="230" height="140" as="geometry" />
+          <mxGeometry x="960" y="516" width="250" height="140" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-96" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=22;arrowHead=70;dx2=35;strokeColor=#ffffff;fillColor=#23445D;fontSize=12;fontColor=#3333FF;flipV=1;strokeWidth=4;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="890" y="437" width="230" height="140" as="geometry" />
@@ -124,7 +124,7 @@
           <mxGeometry x="1440" y="340" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-41" value="&lt;h3 data-end=&quot;2268&quot; data-start=&quot;2242&quot; style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;Celebrity Features&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3B7500;strokeWidth=0;fontFamily=Times New Roman;fontSize=18;fontColor=#F7F7C6;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="120" width="110" height="45" as="geometry" />
+          <mxGeometry x="1020" y="200" width="110" height="45" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-69" value="" style="labelPosition=right;align=left;strokeWidth=2;shape=mxgraph.mockup.markup.curlyBrace;html=1;shadow=0;dashed=0;strokeColor=#004D00;direction=north;" vertex="1" parent="1">
           <mxGeometry x="1460" y="270" width="20" height="67.5" as="geometry" />
