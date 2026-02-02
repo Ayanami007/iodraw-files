@@ -6,7 +6,7 @@
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
-        <mxCell id="taiZRPC4KZry2tKcoWq6-8" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;startSize=53;fillColor=#BF2222;" vertex="1" parent="1">
+        <mxCell id="taiZRPC4KZry2tKcoWq6-8" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;startSize=53;fillColor=#BF2222;strokeWidth=5;" vertex="1" parent="1">
           <mxGeometry x="80" y="77" width="670" height="793" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-10" value="Container" style="swimlane;startSize=50;fillColor=#BF2222;strokeWidth=4;" vertex="1" parent="1">
