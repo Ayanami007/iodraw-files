@@ -7,7 +7,7 @@
         </object>
         <mxCell id="1" parent="0" />
         <mxCell id="taiZRPC4KZry2tKcoWq6-97" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=22;arrowHead=70;dx2=35;strokeColor=#ffffff;fillColor=#AE4132;fontSize=12;fontColor=#3333FF;flipH=1;flipV=1;strokeWidth=4;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="960" y="358" width="360" height="140" as="geometry" />
+          <mxGeometry x="940" y="358" width="320" height="140" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-98" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=22;arrowHead=70;dx2=35;strokeColor=#ffffff;fillColor=#F2931E;fontSize=12;fontColor=#3333FF;flipV=1;strokeWidth=4;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="930" y="279" width="230" height="140" as="geometry" />
@@ -82,7 +82,7 @@
           <mxGeometry x="245" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-11" value="Task 3: Celebrity &amp; Professional Influence" style="swimlane;startSize=57;fillColor=#BF2222;strokeWidth=4;strokeColor=#BF2222;fontSize=18;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="850" y="90" width="483" height="600" as="geometry" />
+          <mxGeometry x="830" y="90" width="483" height="600" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-95" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=22;arrowHead=70;dx2=35;strokeColor=#ffffff;fillColor=#12AAB5;fontSize=12;fontColor=#3333FF;flipH=1;flipV=1;strokeWidth=4;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-11">
           <mxGeometry x="100" y="430" width="250" height="140" as="geometry" />
