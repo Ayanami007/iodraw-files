@@ -94,7 +94,7 @@
           <mxGeometry x="30" y="320" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-82" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=hor;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;rounded=0;strokeColor=#3B7500;strokeWidth=4;align=center;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;fillColor=#F7F7C6;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-11">
-          <mxGeometry x="30" y="370" width="90" height="60" as="geometry" />
+          <mxGeometry x="30" y="370" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-81" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=hor;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;rounded=0;strokeColor=#3B7500;strokeWidth=4;align=center;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;fillColor=#F7F7C6;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-11">
           <mxGeometry x="130" y="370" width="80" height="60" as="geometry" />
