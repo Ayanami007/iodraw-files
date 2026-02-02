@@ -155,7 +155,7 @@
           <mxGeometry x="40" y="260" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-153" value="&lt;b&gt;Performance Evaluation&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=0;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=20;fontColor=#F7F7C6;fillColor=#3B7500;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-14">
-          <mxGeometry x="100" y="410" width="120" height="70" as="geometry" />
+          <mxGeometry x="90" y="400" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-154" value="" style="labelPosition=right;align=left;strokeWidth=2;shape=mxgraph.mockup.markup.curlyBrace;html=1;shadow=0;dashed=0;strokeColor=#000000;direction=north;rounded=0;verticalAlign=middle;fontFamily=Times New Roman;fontSize=20;fontColor=#F7F7C6;fillColor=#3B7500;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-14">
           <mxGeometry x="240" y="95" width="20" height="100" as="geometry" />
