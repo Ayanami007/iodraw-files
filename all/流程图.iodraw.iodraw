@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="bHzsQdMzay1tOq-vHCDs">
-    <mxGraphModel dx="954" dy="2186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1002" dy="2213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1654" math="0" shadow="0">
       <root>
         <object label="" id="0">
           <mxCell />
@@ -63,8 +63,8 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-36" value="&lt;h3 data-end=&quot;1019&quot; data-start=&quot;993&quot; style=&quot;font-size: 17px;&quot;&gt;Inferred Fan Votes&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3B7500;fontFamily=Times New Roman;fontColor=#F7F7C6;fontSize=17;strokeWidth=0;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-10">
           <mxGeometry x="15" y="63" width="155" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-39" value="&lt;h3 style=&quot;font-size: 14px;&quot; data-start=&quot;1295&quot; data-end=&quot;1323&quot;&gt;Controversy Analysis&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3B7500;strokeWidth=0;fontFamily=Times New Roman;fontColor=#F7F7C6;fontStyle=1;fontSize=14;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-10">
-          <mxGeometry x="105" y="290" width="155" height="50" as="geometry" />
+        <mxCell id="taiZRPC4KZry2tKcoWq6-39" value="&lt;h3 data-end=&quot;1323&quot; data-start=&quot;1295&quot; style=&quot;font-size: 17px;&quot;&gt;Controversy Analysis&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3B7500;strokeWidth=0;fontFamily=Times New Roman;fontColor=#F7F7C6;fontStyle=1;fontSize=17;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-10">
+          <mxGeometry x="105" y="290" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-40" value="Elimination Rules" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F7F7C6;fontColor=#004D00;fontStyle=0;fontFamily=Times New Roman;fontSize=19;strokeWidth=3;strokeColor=#3B7500;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-10">
           <mxGeometry x="215" y="220" width="165" height="40" as="geometry" />
