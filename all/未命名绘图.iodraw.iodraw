@@ -13,7 +13,7 @@
           <mxGeometry x="870" y="77" width="450" height="423" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-11" value="Container" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="860" y="563" width="950" height="1070" as="geometry" />
+          <mxGeometry x="860" y="563" width="460" height="527" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-12" value="Container" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="870" y="1190" width="450" height="260" as="geometry" />
