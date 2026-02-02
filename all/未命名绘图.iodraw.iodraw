@@ -33,20 +33,20 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-36" value="&lt;h3 data-end=&quot;1019&quot; data-start=&quot;993&quot;&gt;Inferred Fan Votes&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-10">
           <mxGeometry x="45" y="63" width="160" height="107" as="geometry" />
         </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-37" value="&#xa;Outcome Comparison&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-10">
+          <mxGeometry x="235" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-39" value="&lt;h3 data-end=&quot;1323&quot; data-start=&quot;1295&quot;&gt;Controversy Analysis&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-10">
+          <mxGeometry x="105" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-40" value="Elimination Rules" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-10">
+          <mxGeometry x="245" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-11" value="Task 3: Celebrity &amp; Professional Influence" style="swimlane;startSize=57;fillColor=#BF2222;strokeWidth=4;strokeColor=#BF2222;fontSize=18;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="855" y="80" width="460" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-40" value="Elimination Rules" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-11">
-          <mxGeometry x="20" y="210" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-39" value="&lt;h3 data-end=&quot;1323&quot; data-start=&quot;1295&quot;&gt;Controversy Analysis&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-11">
-          <mxGeometry x="295" y="330" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-11">
           <mxGeometry x="305" y="440" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-37" value="&#xa;Outcome Comparison&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-11">
-          <mxGeometry x="275" y="137" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-12" value="Insights &amp; Recommendations" style="swimlane;startSize=40;fillColor=#BF2222;strokeColor=#BF2222;strokeWidth=4;perimeterSpacing=0;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="855" y="1180" width="450" height="260" as="geometry" />
