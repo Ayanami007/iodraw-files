@@ -102,8 +102,8 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-110" value="Fixed Effects" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=18;fontColor=#000000;fontStyle=3" vertex="1" parent="taiZRPC4KZry2tKcoWq6-11">
           <mxGeometry x="250" y="310" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-111" value="Season Random Effect" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=18;fontColor=#000000;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-11">
-          <mxGeometry x="300" y="238" width="60" height="30" as="geometry" />
+        <mxCell id="taiZRPC4KZry2tKcoWq6-111" value="Season Random Effect" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=18;fontColor=#000000;fontStyle=1" vertex="1" parent="taiZRPC4KZry2tKcoWq6-11">
+          <mxGeometry x="240" y="245" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-12" value="Insights &amp; Recommendations" style="swimlane;startSize=40;fillColor=#BF2222;strokeColor=#BF2222;strokeWidth=4;perimeterSpacing=0;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="855" y="1180" width="450" height="260" as="geometry" />
