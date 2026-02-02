@@ -48,6 +48,9 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-125" value="65%" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.partConcEllipse;startAngle=0;endAngle=0.65;arcWidth=0.2;strokeColor=none;fillColor=#10739E;fontSize=22;fontColor=#10739E;align=center;fontStyle=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-124">
           <mxGeometry width="100" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-175" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;direction=south;strokeWidth=0;fillColor=#fff2cc;strokeColor=#d6b656;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-8">
+          <mxGeometry x="195" y="175" width="790" height="755" as="geometry" />
+        </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-10" value="Task 2: Evaluation Method Bias Analysis" style="swimlane;startSize=50;fillColor=#BF2222;strokeWidth=4;strokeColor=#BF2222;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=19;fontColor=#FFFFFF;fontStyle=1;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="843.5" y="720" width="486.5" height="440" as="geometry" />
         </mxCell>
@@ -189,9 +192,6 @@
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-41" value="&lt;h3 data-end=&quot;2268&quot; data-start=&quot;2242&quot; style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;Celebrity Features&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3B7500;strokeWidth=0;fontFamily=Times New Roman;fontSize=18;fontColor=#F7F7C6;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="200" width="110" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-175" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;direction=south;strokeWidth=0;fillColor=#fff2cc;strokeColor=#d6b656;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1690" y="255" width="790" height="755" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-176" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;direction=south;strokeWidth=0;" vertex="1" parent="1">
           <mxGeometry x="1850" y="410" width="420" height="420" as="geometry" />
