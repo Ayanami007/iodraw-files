@@ -16,7 +16,7 @@
           <mxGeometry x="120" y="483" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-29" value="BP-LSTM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-8">
-          <mxGeometry x="30" y="363" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="623" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-25" value="Hierarchical Bayesian Model" style="whiteSpace=wrap;html=1;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-8">
           <mxGeometry x="60" y="83" width="200" height="140" as="geometry" />
