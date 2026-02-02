@@ -43,7 +43,10 @@
           <mxGeometry x="760" y="80" width="80" height="1370" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-31" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="300" width="60" height="100" as="geometry" />
+          <mxGeometry x="450" y="300" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=20;exitDy=10.5;exitPerimeter=0;entryX=0.727;entryY=0.511;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="taiZRPC4KZry2tKcoWq6-31" target="taiZRPC4KZry2tKcoWq6-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
