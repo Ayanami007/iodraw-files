@@ -87,7 +87,7 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-149" value="Bottom-2 Mechanism" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=17;fontColor=#000000;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-10">
           <mxGeometry x="225" y="215" width="180" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-11" value="Task 3: Celebrity &amp; Professional Influence" style="swimlane;startSize=57;fillColor=#BF2222;strokeWidth=4;strokeColor=#BF2222;fontSize=18;fontColor=#FFFFFF;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="taiZRPC4KZry2tKcoWq6-11" value="Task 3: Celebrity &amp; Professional Influence" style="swimlane;startSize=57;fillColor=#BF2222;strokeWidth=4;strokeColor=#BF2222;fontSize=19;fontColor=#FFFFFF;fontFamily=Verdana;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="850" y="90" width="483" height="600" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-97" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=22;arrowHead=70;dx2=35;strokeColor=#ffffff;fillColor=#AE4132;fontSize=12;fontColor=#3333FF;flipH=1;flipV=1;strokeWidth=4;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-11">
