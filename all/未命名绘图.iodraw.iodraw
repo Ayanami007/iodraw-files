@@ -6,10 +6,10 @@
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
-        <mxCell id="taiZRPC4KZry2tKcoWq6-8" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;startSize=53;fillColor=#BF2222;strokeWidth=5;strokeColor=#BF2222;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+        <mxCell id="taiZRPC4KZry2tKcoWq6-8" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;startSize=53;fillColor=#BF2222;strokeWidth=5;strokeColor=#BF2222;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="77" width="670" height="793" as="geometry" />
         </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-10" value="Container" style="swimlane;startSize=50;fillColor=#BF2222;strokeWidth=4;strokeColor=#BF2222;" vertex="1" parent="1">
+        <mxCell id="taiZRPC4KZry2tKcoWq6-10" value="Container" style="swimlane;startSize=50;fillColor=#BF2222;strokeWidth=4;strokeColor=#BF2222;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="850" y="80" width="450" height="420" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-11" value="Container" style="swimlane;startSize=57;fillColor=#BF2222;strokeWidth=4;strokeColor=#BF2222;" vertex="1" parent="1">
