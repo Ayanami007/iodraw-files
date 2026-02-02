@@ -81,6 +81,9 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-66" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.cluster;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-11">
           <mxGeometry x="130" y="50" width="78" height="78" as="geometry" />
         </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-69" value="" style="labelPosition=right;align=left;strokeWidth=1;shape=mxgraph.mockup.markup.curlyBrace;html=1;shadow=0;dashed=0;strokeColor=#999999;direction=north;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-11">
+          <mxGeometry x="120" y="180" width="20" height="100" as="geometry" />
+        </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-12" value="Insights &amp; Recommendations" style="swimlane;startSize=40;fillColor=#BF2222;strokeColor=#BF2222;strokeWidth=4;perimeterSpacing=0;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="855" y="1180" width="450" height="260" as="geometry" />
         </mxCell>
@@ -102,8 +105,8 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-23" value="&lt;div style=&quot;direction: ltr;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;direction=south;fillColor=#004D00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="80" width="80" height="1370" as="geometry" />
         </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-69" value="" style="labelPosition=right;align=left;strokeWidth=1;shape=mxgraph.mockup.markup.curlyBrace;html=1;shadow=0;dashed=0;strokeColor=#999999;direction=north;" vertex="1" parent="1">
-          <mxGeometry x="790" y="370" width="20" height="100" as="geometry" />
+        <mxCell id="taiZRPC4KZry2tKcoWq6-70" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="975" y="258" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
