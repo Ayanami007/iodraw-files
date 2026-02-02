@@ -72,6 +72,9 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-41" value="&lt;h3 data-end=&quot;2268&quot; data-start=&quot;2242&quot;&gt;&amp;nbsp;Celebrity Features&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3B7500;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-11">
           <mxGeometry x="40" y="110" width="160" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-65" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Service_Fabric_Clusters.svg;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-11">
+          <mxGeometry x="200" y="70" width="67" height="64" as="geometry" />
+        </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-12" value="Insights &amp; Recommendations" style="swimlane;startSize=40;fillColor=#BF2222;strokeColor=#BF2222;strokeWidth=4;perimeterSpacing=0;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="855" y="1180" width="450" height="260" as="geometry" />
         </mxCell>
@@ -92,9 +95,6 @@
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-23" value="&lt;div style=&quot;direction: ltr;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;direction=south;fillColor=#004D00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="80" width="80" height="1370" as="geometry" />
-        </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-65" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Service_Fabric_Clusters.svg;" vertex="1" parent="1">
-          <mxGeometry x="770" y="390" width="67" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
