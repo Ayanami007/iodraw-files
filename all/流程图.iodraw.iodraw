@@ -39,7 +39,7 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-29" value="&lt;font style=&quot;font-size: 24px;&quot; face=&quot;Times New Roman&quot;&gt;BP-LSTM&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E1D5E7;fontStyle=1;fontSize=29;fontColor=#685073;strokeWidth=5;strokeColor=#685073;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-8">
           <mxGeometry x="133.75" y="577" width="167.5" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-27" value="MCMC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3B7500;strokeWidth=0;fontColor=#FFFF99;fontSize=32;fontFamily=Times New Roman;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-8">
+        <mxCell id="taiZRPC4KZry2tKcoWq6-27" value="MCMC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3B7500;strokeWidth=0;fontColor=#F7F7C6;fontSize=32;fontFamily=Times New Roman;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-8">
           <mxGeometry x="360" y="570" width="190" height="74" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-124" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=10;strokeColor=none;fillColor=#10739E;fontSize=10;align=center;fillOpacity=20;rounded=0;fontFamily=Helvetica;fontColor=#000000;fontStyle=3;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-8">
