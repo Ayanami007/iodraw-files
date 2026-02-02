@@ -72,6 +72,9 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-127" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;Outcome Comparison&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=0;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=19;fontColor=#FFFFFF;fillColor=#2774C2;fontStyle=1;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-10">
           <mxGeometry x="45" y="230" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-143" value="&#xa;&lt;li data-end=&quot;1054&quot; data-start=&quot;1027&quot;&gt;&lt;p data-end=&quot;1054&quot; data-start=&quot;1029&quot;&gt;Inferred Fan Vote Share&lt;/p&gt;&#xa;&lt;/li&gt;&#xa;&lt;li data-end=&quot;1075&quot; data-start=&quot;1055&quot;&gt;&#xa;&lt;p data-end=&quot;1075&quot; data-start=&quot;1057&quot;&gt;Unified Baseline&lt;/p&gt;&lt;/li&gt;&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=17;fontColor=#000000;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-10">
+          <mxGeometry x="195" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-11" value="Task 3: Celebrity &amp; Professional Influence" style="swimlane;startSize=57;fillColor=#BF2222;strokeWidth=4;strokeColor=#BF2222;fontSize=18;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="850" y="90" width="483" height="600" as="geometry" />
         </mxCell>
@@ -152,9 +155,6 @@
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-66" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#F19C99;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.cluster;" vertex="1" parent="1">
           <mxGeometry x="1530" y="60" width="78" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-143" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=17;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="860" y="860" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
