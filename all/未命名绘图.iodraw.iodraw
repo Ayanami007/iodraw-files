@@ -7,7 +7,7 @@
         </object>
         <mxCell id="1" parent="0" />
         <mxCell id="taiZRPC4KZry2tKcoWq6-8" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="1">
-          <mxGeometry x="80" y="77" width="960" height="793" as="geometry" />
+          <mxGeometry x="80" y="77" width="670" height="793" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-19" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;direction=south;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-8">
           <mxGeometry x="160" y="43" width="800" height="750" as="geometry" />
