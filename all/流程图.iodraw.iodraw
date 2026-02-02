@@ -202,7 +202,7 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-181" value="OUR WORK" style="text;strokeColor=none;fillColor=none;html=1;fontSize=49;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Times New Roman;fontColor=#FFFFFF;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="740" y="690" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-183" value="Signal" style="html=1;shape=mxgraph.sysml.sendSigAct;strokeWidth=2;whiteSpace=wrap;align=center;rounded=0;verticalAlign=middle;fontFamily=Times New Roman;fontSize=17;fontColor=#000000;fillColor=#990000;gradientColor=none;direction=south;" vertex="1" parent="1">
+        <mxCell id="taiZRPC4KZry2tKcoWq6-183" value="Signal" style="html=1;shape=mxgraph.sysml.sendSigAct;strokeWidth=0;whiteSpace=wrap;align=center;rounded=0;verticalAlign=middle;fontFamily=Times New Roman;fontSize=17;fontColor=#000000;fillColor=#990000;gradientColor=none;direction=south;" vertex="1" parent="1">
           <mxGeometry x="70" y="843.5" width="140" height="193" as="geometry" />
         </mxCell>
       </root>
