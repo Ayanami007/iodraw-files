@@ -138,8 +138,8 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-48" value="&lt;h3 data-end=&quot;3632&quot; data-start=&quot;3602&quot;&gt;&amp;nbsp;Performance Evaluation&lt;/h3&gt;&lt;br/&gt;&lt;p data-end=&quot;3639&quot; data-start=&quot;3633&quot;&gt;&lt;strong data-end=&quot;3639&quot; data-start=&quot;3633&quot;&gt;写：&lt;/strong&gt;&lt;/p&gt;&lt;br/&gt;&lt;ul data-end=&quot;3696&quot; data-start=&quot;3640&quot;&gt;&lt;br/&gt;&lt;li data-end=&quot;3664&quot; data-start=&quot;3640&quot;&gt;&lt;br/&gt;&lt;p data-end=&quot;3664&quot; data-start=&quot;3642&quot;&gt;Fairness Improvement&lt;/p&gt;&lt;br/&gt;&lt;/li&gt;&lt;br/&gt;&lt;li data-end=&quot;3681&quot; data-start=&quot;3665&quot;&gt;&lt;br/&gt;&lt;p data-end=&quot;3681&quot; data-start=&quot;3667&quot;&gt;Reduced Bias&lt;/p&gt;&lt;br/&gt;&lt;/li&gt;&lt;br/&gt;&lt;li data-end=&quot;3696&quot; data-start=&quot;3682&quot;&gt;&lt;br/&gt;&lt;p data-end=&quot;3696&quot; data-start=&quot;3684&quot;&gt;Robustness&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F7F7C6;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-14">
           <mxGeometry x="500" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-47" value="&lt;h3 data-end=&quot;3499&quot; data-start=&quot;3468&quot;&gt;Improved Scoring System&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2774C2;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-14">
-          <mxGeometry x="320" y="280" width="200" height="60" as="geometry" />
+        <mxCell id="taiZRPC4KZry2tKcoWq6-47" value="&lt;h3 data-end=&quot;3499&quot; data-start=&quot;3468&quot;&gt;Improved Scoring System&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2774C2;strokeWidth=0;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-14">
+          <mxGeometry x="250" y="310" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-19" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1770" y="330" width="800" height="750" as="geometry" />
