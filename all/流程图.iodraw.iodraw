@@ -88,7 +88,7 @@
           <mxGeometry x="245" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-11" value="Task 3: Celebrity &amp; Professional Influence" style="swimlane;startSize=57;fillColor=#BF2222;strokeWidth=4;strokeColor=#BF2222;fontSize=18;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="850" y="90" width="460" height="580" as="geometry" />
+          <mxGeometry x="850" y="120" width="460" height="580" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-44" value="&lt;h3 data-start=&quot;2505&quot; data-end=&quot;2527&quot; style=&quot;font-size: 17px;&quot;&gt;Preference Gap&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2774C2;fontFamily=Times New Roman;fontColor=#FFFFFF;fontSize=17;strokeWidth=0;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-11">
           <mxGeometry x="270" y="440" width="130" height="40" as="geometry" />
