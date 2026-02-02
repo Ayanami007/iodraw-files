@@ -19,7 +19,7 @@
           <mxGeometry x="890" y="279" width="230" height="140" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-99" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=22;arrowHead=70;dx2=35;strokeColor=#ffffff;fillColor=#10739E;fontSize=12;fontColor=#3333FF;flipH=1;flipV=1;strokeWidth=4;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="890" y="200" width="310" height="140" as="geometry" />
+          <mxGeometry x="890" y="200" width="330" height="140" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-8" value="&lt;h3 data-start=&quot;1103&quot; data-end=&quot;1140&quot; style=&quot;font-size: 21px;&quot;&gt;&lt;strong data-start=&quot;1107&quot; data-end=&quot;1140&quot; style=&quot;font-size: 21px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 21px;&quot;&gt;Task1:Core Bayesian Inference Model&lt;/font&gt;&lt;/strong&gt;&lt;/h3&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=53;fillColor=#BF2222;strokeWidth=5;strokeColor=#BF2222;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="80" y="90" width="670" height="793" as="geometry" />
