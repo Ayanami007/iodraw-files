@@ -109,7 +109,7 @@
           <mxGeometry x="30" y="270" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-87" value="&lt;font color=&quot;#004d00&quot; style=&quot;font-size: 13px;&quot; face=&quot;Times New Roman&quot;&gt;Season Random Effect&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3B7500;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;fillColor=#F7F7C6;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-11">
-          <mxGeometry x="130" y="410" width="90" height="60" as="geometry" />
+          <mxGeometry x="70" y="210" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-86" value="&lt;font color=&quot;#004d00&quot; style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Fixed Effects&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3B7500;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;fillColor=#F7F7C6;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-11">
           <mxGeometry x="10" y="410" width="90" height="60" as="geometry" />
