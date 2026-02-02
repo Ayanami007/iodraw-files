@@ -209,6 +209,9 @@
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="670" y="880" as="sourcePoint" />
             <mxPoint x="830" y="880" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="880" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-185" value="1" style="resizable=0;html=1;align=left;verticalAlign=top;labelBackgroundColor=none;fontSize=10;rounded=0;fontFamily=Times New Roman;fontColor=#000000;fillColor=none;gradientColor=none;" connectable="0" vertex="1" parent="taiZRPC4KZry2tKcoWq6-184">
