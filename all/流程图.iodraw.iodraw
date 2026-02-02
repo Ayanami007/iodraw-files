@@ -6,6 +6,9 @@
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
+        <mxCell id="taiZRPC4KZry2tKcoWq6-198" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=17;fontColor=#000000;fillColor=#FF9999;gradientColor=none;arrowWidth=0.6649570562900653;arrowSize=0.23611130487351165;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="663.5" y="1050" width="180" height="130" as="geometry" />
+        </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-11" value="Task 3: Celebrity &amp; Professional Influence" style="swimlane;startSize=57;fillColor=#BF2222;strokeWidth=4;strokeColor=#BF2222;fontSize=19;fontColor=#FFFFFF;fontFamily=Verdana;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="850" y="80" width="470" height="600" as="geometry" />
         </mxCell>
@@ -216,9 +219,6 @@
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-196" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=17;fontColor=#000000;fillColor=#990000;gradientColor=none;arrowWidth=0.42005442108457586;arrowSize=0.4685185185185181;strokeWidth=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="863.5" width="60" height="123" as="geometry" />
-        </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-198" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=17;fontColor=#000000;fillColor=#FF9999;gradientColor=none;arrowWidth=0.6649570562900653;arrowSize=0.23611130487351165;strokeWidth=0;" vertex="1" parent="1">
-          <mxGeometry x="663.5" y="1050" width="180" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
