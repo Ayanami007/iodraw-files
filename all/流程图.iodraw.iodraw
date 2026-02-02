@@ -111,12 +111,6 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-74" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3B7500;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;fillColor=#F7F7C6;" vertex="1" parent="1">
           <mxGeometry x="710" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-75" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3B7500;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;fillColor=#F7F7C6;" vertex="1" parent="1">
-          <mxGeometry x="710" y="420" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-76" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3B7500;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;fillColor=#F7F7C6;" vertex="1" parent="1">
-          <mxGeometry x="710" y="420" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
