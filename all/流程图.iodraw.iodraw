@@ -141,7 +141,7 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-153" value="&lt;b&gt;Performance Evaluation&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=0;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=20;fontColor=#F7F7C6;fillColor=#3B7500;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-14">
           <mxGeometry x="440" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-154" value="" style="labelPosition=right;align=left;strokeWidth=1;shape=mxgraph.mockup.markup.curlyBrace;html=1;shadow=0;dashed=0;strokeColor=#999999;direction=north;rounded=0;verticalAlign=middle;fontFamily=Times New Roman;fontSize=20;fontColor=#F7F7C6;fillColor=#3B7500;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-14">
+        <mxCell id="taiZRPC4KZry2tKcoWq6-154" value="" style="labelPosition=right;align=left;strokeWidth=2;shape=mxgraph.mockup.markup.curlyBrace;html=1;shadow=0;dashed=0;strokeColor=#000000;direction=north;rounded=0;verticalAlign=middle;fontFamily=Times New Roman;fontSize=20;fontColor=#F7F7C6;fillColor=#3B7500;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-14">
           <mxGeometry x="240" y="95" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-19" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;direction=south;" vertex="1" parent="1">
