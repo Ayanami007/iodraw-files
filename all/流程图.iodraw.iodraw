@@ -66,7 +66,7 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-40" value="Elimination Rules" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F7F7C6;fontColor=#004D00;fontStyle=0;fontFamily=Times New Roman;fontSize=19;strokeWidth=3;strokeColor=#3B7500;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-10">
           <mxGeometry x="10" y="130" width="165" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-169" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=17;fontColor=#000000;fontStyle=1;labelBorderColor=none;resizable=1;" edge="1" parent="taiZRPC4KZry2tKcoWq6-10" source="taiZRPC4KZry2tKcoWq6-127" target="taiZRPC4KZry2tKcoWq6-149">
+        <mxCell id="taiZRPC4KZry2tKcoWq6-169" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=17;fontColor=#000000;fontStyle=1;labelBorderColor=none;resizable=1;entryX=0.452;entryY=-0.06;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="taiZRPC4KZry2tKcoWq6-10" source="taiZRPC4KZry2tKcoWq6-127" target="taiZRPC4KZry2tKcoWq6-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-127" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;Outcome Comparison&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=0;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=19;fontColor=#FFFFFF;fillColor=#2774C2;fontStyle=1;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-10">
