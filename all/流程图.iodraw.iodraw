@@ -129,6 +129,9 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-12" value="Insights &amp; Recommendations" style="swimlane;startSize=40;fillColor=#BF2222;strokeColor=#BF2222;strokeWidth=4;perimeterSpacing=0;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="860" y="1160" width="450" height="260" as="geometry" />
         </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-172" value="&lt;li data-end=&quot;2171&quot; data-start=&quot;2155&quot;&gt;&lt;p data-end=&quot;2171&quot; data-start=&quot;2157&quot;&gt;Bias Control&lt;/p&gt;&lt;br&gt;&lt;/li&gt;&lt;br&gt;&lt;li data-end=&quot;2198&quot; data-start=&quot;2172&quot;&gt;&lt;p data-end=&quot;2198&quot; data-start=&quot;2174&quot;&gt;Fairness vs Popularity&lt;/p&gt;&lt;/li&gt;&lt;li data-end=&quot;2226&quot; data-start=&quot;2199&quot;&gt;&lt;p data-end=&quot;2226&quot; data-start=&quot;2201&quot;&gt;Practical Applicability&lt;/p&gt;&lt;/li&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=17;fontColor=#000000;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-12">
+          <mxGeometry x="105" y="40" width="180" height="200" as="geometry" />
+        </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-14" value="Task 4: Scoring System Redesign" style="swimlane;startSize=70;fillColor=#BF2222;strokeWidth=4;strokeColor=#BF2222;fontSize=21;fontColor=#FFFFFF;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="80" y="910" width="670" height="520" as="geometry" />
         </mxCell>
@@ -201,9 +204,6 @@
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-66" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#F19C99;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.cluster;" vertex="1" parent="1">
           <mxGeometry x="1530" y="60" width="78" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-172" value="&lt;li data-end=&quot;2171&quot; data-start=&quot;2155&quot;&gt;&lt;p data-end=&quot;2171&quot; data-start=&quot;2157&quot;&gt;Bias Control&lt;/p&gt;&lt;br&gt;&lt;/li&gt;&lt;br&gt;&lt;li data-end=&quot;2198&quot; data-start=&quot;2172&quot;&gt;&lt;br&gt;&lt;p data-end=&quot;2198&quot; data-start=&quot;2174&quot;&gt;Fairness vs Popularity&lt;/p&gt;&lt;/li&gt;&lt;li data-end=&quot;2226&quot; data-start=&quot;2199&quot;&gt;&lt;p data-end=&quot;2226&quot; data-start=&quot;2201&quot;&gt;Practical Applicability&lt;/p&gt;&lt;/li&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="950" y="1133" width="180" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
