@@ -6,7 +6,7 @@
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
-        <mxCell id="taiZRPC4KZry2tKcoWq6-8" value="&lt;h3 data-end=&quot;1140&quot; data-start=&quot;1103&quot;&gt;&lt;strong data-end=&quot;1140&quot; data-start=&quot;1107&quot;&gt;Core Bayesian Inference Model&lt;/strong&gt;&lt;/h3&gt;&lt;br/&gt;&lt;blockquote data-end=&quot;1173&quot; data-start=&quot;1141&quot;&gt;&lt;br/&gt;&lt;p data-end=&quot;1173&quot; data-start=&quot;1143&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;/blockquote&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=53;fillColor=#BF2222;strokeWidth=5;strokeColor=#BF2222;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="taiZRPC4KZry2tKcoWq6-8" value="&lt;h3 data-end=&quot;1140&quot; data-start=&quot;1103&quot;&gt;&lt;strong data-end=&quot;1140&quot; data-start=&quot;1107&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;Task1:Core Bayesian Inference Model&lt;/font&gt;&lt;/strong&gt;&lt;/h3&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=53;fillColor=#BF2222;strokeWidth=5;strokeColor=#BF2222;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="77" width="670" height="793" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-10" value="Container" style="swimlane;startSize=50;fillColor=#BF2222;strokeWidth=4;strokeColor=#BF2222;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
