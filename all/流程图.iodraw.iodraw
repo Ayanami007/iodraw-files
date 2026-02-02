@@ -34,7 +34,7 @@
           <mxGeometry x="340" y="643" width="230" height="120" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-62" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;arrowWidth=0.25185366030094275;arrowSize=0.39639419693130734;fillColor=#004D00;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-8">
-          <mxGeometry x="301.25" y="503" width="22.5" height="37" as="geometry" />
+          <mxGeometry x="301.25" y="500" width="22.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-77" value="Process Bar" style="swimlane;childLayout=stackLayout;horizontal=1;fillColor=none;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;strokeColor=none;stackBorder=10;stackSpacing=-12;resizable=1;align=center;points=[];whiteSpace=wrap;html=1;rounded=0;strokeWidth=4;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-8">
           <mxGeometry x="330" y="250" width="296" height="100" as="geometry" />
