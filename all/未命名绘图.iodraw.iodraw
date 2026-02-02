@@ -15,7 +15,7 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-11" value="Container" style="swimlane;startSize=57;fillColor=#BF2222;" vertex="1" parent="1">
           <mxGeometry x="850" y="540" width="460" height="527" as="geometry" />
         </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-12" value="Container" style="swimlane;startSize=40;" vertex="1" parent="1">
+        <mxCell id="taiZRPC4KZry2tKcoWq6-12" value="Container" style="swimlane;startSize=40;fillColor=#BF2222;strokeColor=#BF2222;" vertex="1" parent="1">
           <mxGeometry x="870" y="1190" width="450" height="260" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-14" value="Container" style="swimlane;startSize=70;fillColor=#BF2222;" vertex="1" parent="1">
