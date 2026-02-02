@@ -45,6 +45,18 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-67" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.analytics;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-8">
           <mxGeometry x="542" y="550" width="78" height="78" as="geometry" />
         </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-77" value="Process Bar" style="swimlane;childLayout=stackLayout;horizontal=1;fillColor=none;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;strokeColor=none;stackBorder=10;stackSpacing=-12;resizable=1;align=center;points=[];whiteSpace=wrap;html=1;rounded=0;strokeWidth=4;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-8">
+          <mxGeometry x="330" y="250" width="296" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-78" value="Step 1" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=0;strokeColor=#3B7500;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;fillColor=#F7F7C6;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-77">
+          <mxGeometry x="10" y="33" width="100" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-79" value="Step 2" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=0;strokeColor=#3B7500;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;fillColor=#F7F7C6;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-77">
+          <mxGeometry x="98" y="33" width="100" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-80" value="Step 3" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=0;strokeColor=#3B7500;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;fillColor=#F7F7C6;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-77">
+          <mxGeometry x="186" y="33" width="100" height="57" as="geometry" />
+        </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-10" value="Task 2: Evaluation Method Bias Analysis" style="swimlane;startSize=50;fillColor=#BF2222;strokeWidth=4;strokeColor=#BF2222;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=21;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="855" y="710" width="450" height="420" as="geometry" />
         </mxCell>
@@ -107,18 +119,6 @@
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-65" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Service_Fabric_Clusters.svg;" vertex="1" parent="1">
           <mxGeometry x="1310" y="-20" width="67" height="64" as="geometry" />
-        </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-77" value="Process Bar" style="swimlane;childLayout=stackLayout;horizontal=1;fillColor=none;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;strokeColor=none;stackBorder=10;stackSpacing=-12;resizable=1;align=center;points=[];whiteSpace=wrap;html=1;rounded=0;strokeWidth=4;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="630" y="400" width="296" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-78" value="Step 1" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=0;strokeColor=#3B7500;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;fillColor=#F7F7C6;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-77">
-          <mxGeometry x="10" y="33" width="100" height="57" as="geometry" />
-        </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-79" value="Step 2" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=0;strokeColor=#3B7500;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;fillColor=#F7F7C6;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-77">
-          <mxGeometry x="98" y="33" width="100" height="57" as="geometry" />
-        </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-80" value="Step 3" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=0;strokeColor=#3B7500;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;fillColor=#F7F7C6;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-77">
-          <mxGeometry x="186" y="33" width="100" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
