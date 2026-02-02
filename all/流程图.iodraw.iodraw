@@ -93,9 +93,6 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-11" value="Task 3: Celebrity &amp; Professional Influence" style="swimlane;startSize=57;fillColor=#BF2222;strokeWidth=4;strokeColor=#BF2222;fontSize=19;fontColor=#FFFFFF;fontFamily=Verdana;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="850" y="80" width="470" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-191" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=17;fontColor=#000000;fillColor=#E6FFCC;gradientColor=none;arrowWidth=0.6443350956357751;arrowSize=0.3588744060301681;strokeWidth=0;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-11">
-          <mxGeometry x="-155" y="180" width="215" height="150" as="geometry" />
-        </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-97" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=22;arrowHead=70;dx2=35;strokeColor=#ffffff;fillColor=#AE4132;fontSize=12;fontColor=#3333FF;flipH=1;flipV=1;strokeWidth=4;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-11">
           <mxGeometry x="145" y="268" width="320" height="140" as="geometry" />
         </mxCell>
@@ -210,6 +207,9 @@
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-187" value="Data&lt;div style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;Foundation&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=18;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Times New Roman;fontColor=#FFFF99;" vertex="1" parent="1">
           <mxGeometry x="90" y="870" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-191" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=17;fontColor=#000000;fillColor=#E6FFCC;gradientColor=none;arrowWidth=0.6443350956357751;arrowSize=0.3588744060301681;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="310" width="215" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
