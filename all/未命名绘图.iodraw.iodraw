@@ -15,14 +15,14 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-11" value="Container" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="860" y="563" width="950" height="1070" as="geometry" />
         </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-19" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;direction=south;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-11">
-          <mxGeometry x="-485" y="-338" width="1435" height="1408" as="geometry" />
-        </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-12" value="Container" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="870" y="1190" width="450" height="260" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-14" value="Container" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="80" y="930" width="670" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-19" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="170" width="1435" height="1408" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
