@@ -79,7 +79,7 @@
           <mxGeometry x="210" y="110" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-147" value="&#xa;Ranking-based&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=17;fontColor=#000000;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-10">
-          <mxGeometry x="220" y="110" width="120" height="30" as="geometry" />
+          <mxGeometry x="230" y="110" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-11" value="Task 3: Celebrity &amp; Professional Influence" style="swimlane;startSize=57;fillColor=#BF2222;strokeWidth=4;strokeColor=#BF2222;fontSize=18;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="850" y="90" width="483" height="600" as="geometry" />
@@ -161,6 +161,12 @@
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-66" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#F19C99;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.cluster;" vertex="1" parent="1">
           <mxGeometry x="1530" y="60" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-149" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=17;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="880" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-150" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=17;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="880" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
