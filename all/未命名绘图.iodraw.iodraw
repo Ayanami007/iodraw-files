@@ -22,7 +22,7 @@
           <mxGeometry x="80" y="930" width="670" height="520" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-19" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star" vertex="1" parent="1">
-          <mxGeometry x="430" y="190" width="830" height="730" as="geometry" />
+          <mxGeometry x="430" y="190" width="900" height="810" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
