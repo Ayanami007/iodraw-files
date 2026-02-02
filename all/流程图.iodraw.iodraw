@@ -105,6 +105,11 @@
             <mxPoint x="100" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-89" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=#3B7500;strokeWidth=4;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;fillColor=#F7F7C6;" vertex="1" connectable="0" parent="taiZRPC4KZry2tKcoWq6-88">
+          <mxGeometry x="-0.1167" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-12" value="Insights &amp; Recommendations" style="swimlane;startSize=40;fillColor=#BF2222;strokeColor=#BF2222;strokeWidth=4;perimeterSpacing=0;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="855" y="1180" width="450" height="260" as="geometry" />
         </mxCell>
