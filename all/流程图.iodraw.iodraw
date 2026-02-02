@@ -75,9 +75,6 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-143" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;li style=&quot;font-size: 16px;&quot; data-end=&quot;1054&quot; data-start=&quot;1027&quot;&gt;&lt;p style=&quot;&quot; data-end=&quot;1054&quot; data-start=&quot;1029&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Inferred Fan Vote Share&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot; data-end=&quot;1075&quot; data-start=&quot;1055&quot;&gt;&lt;p style=&quot;&quot; data-end=&quot;1075&quot; data-start=&quot;1057&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Unified Baseline&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=17;fontColor=#000000;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-10">
           <mxGeometry x="215" y="96.5" width="120" height="3.5" as="geometry" />
         </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=17;fontColor=#FFFFFF;fontStyle=1;labelBorderColor=none;resizable=1;" edge="1" parent="taiZRPC4KZry2tKcoWq6-10" source="taiZRPC4KZry2tKcoWq6-143" target="taiZRPC4KZry2tKcoWq6-143">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-11" value="Task 3: Celebrity &amp; Professional Influence" style="swimlane;startSize=57;fillColor=#BF2222;strokeWidth=4;strokeColor=#BF2222;fontSize=18;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="850" y="90" width="483" height="600" as="geometry" />
         </mxCell>
