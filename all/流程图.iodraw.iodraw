@@ -45,7 +45,7 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-113" value="&#xa;Effect on Judge Scores&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=18;fontColor=#000000;fontStyle=3;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-11">
           <mxGeometry x="75" y="485" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-191" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=17;fontColor=#000000;fillColor=#E6FFCC;gradientColor=none;arrowWidth=0.6443350956357751;arrowSize=0.3588744060301681;strokeWidth=0;" vertex="1" parent="1">
+        <mxCell id="taiZRPC4KZry2tKcoWq6-191" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=17;fontColor=#000000;fillColor=#AEE69C;gradientColor=none;arrowWidth=0.6443350956357751;arrowSize=0.3588744060301681;strokeWidth=0;" vertex="1" parent="1">
           <mxGeometry x="730" y="310" width="215" height="150" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-175" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;direction=south;strokeWidth=0;fillColor=#fff2cc;strokeColor=#d6b656;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
