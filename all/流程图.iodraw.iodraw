@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="bHzsQdMzay1tOq-vHCDs">
-    <mxGraphModel dx="4263" dy="3251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2863" dy="3251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1654" math="0" shadow="0">
       <root>
         <object label="" id="0">
           <mxCell />
@@ -47,6 +47,9 @@
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-125" value="65%" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.partConcEllipse;startAngle=0;endAngle=0.65;arcWidth=0.2;strokeColor=none;fillColor=#10739E;fontSize=22;fontColor=#10739E;align=center;fontStyle=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-124">
           <mxGeometry width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-191" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=17;fontColor=#000000;fillColor=none;gradientColor=none;arrowWidth=0.6443350956357751;arrowSize=0.3588744060301681;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-8">
+          <mxGeometry x="370" y="120" width="240" height="200" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-10" value="Task 2: Evaluation Method Bias Analysis" style="swimlane;startSize=50;fillColor=#BF2222;strokeWidth=4;strokeColor=#BF2222;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=19;fontColor=#FFFFFF;fontStyle=1;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="843.5" y="720" width="486.5" height="440" as="geometry" />
@@ -207,9 +210,6 @@
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-187" value="Data&lt;div style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;Foundation&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=18;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Times New Roman;fontColor=#FFFF99;" vertex="1" parent="1">
           <mxGeometry x="90" y="870" width="100" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-191" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=17;fontColor=#000000;fillColor=none;gradientColor=none;arrowWidth=0.6443350956357751;arrowSize=0.3588744060301681;" vertex="1" parent="1">
-          <mxGeometry x="-390" y="410" width="330" height="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
