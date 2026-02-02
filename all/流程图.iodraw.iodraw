@@ -52,7 +52,7 @@
           <mxGeometry x="1510" y="1130" width="790" height="755" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-8" value="&lt;h3 data-start=&quot;1103&quot; data-end=&quot;1140&quot; style=&quot;font-size: 21px;&quot;&gt;&lt;strong data-start=&quot;1107&quot; data-end=&quot;1140&quot; style=&quot;font-size: 21px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 21px;&quot;&gt;Task1:Core Bayesian Inference Model&lt;/font&gt;&lt;/strong&gt;&lt;/h3&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=53;fillColor=#BF2222;strokeWidth=5;strokeColor=#BF2222;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="70" y="80" width="660" height="760" as="geometry" />
+          <mxGeometry x="70" y="80" width="660" height="783.5" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-26" value="&lt;b style=&quot;font-size: 26px;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;Latent Fan Vote Share&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3B7500;labelBorderColor=#3B7500;strokeWidth=0;fontColor=#FFFFCC;fontFamily=Times New Roman;fontSize=26;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-8">
           <mxGeometry x="70" y="270" width="210" height="100" as="geometry" />
@@ -89,6 +89,9 @@
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-125" value="65%" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.partConcEllipse;startAngle=0;endAngle=0.65;arcWidth=0.2;strokeColor=none;fillColor=#10739E;fontSize=22;fontColor=#10739E;align=center;fontStyle=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-124">
           <mxGeometry width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-196" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=17;fontColor=#000000;fillColor=none;gradientColor=none;arrowWidth=0.42005442108457586;arrowSize=0.4685185185185181;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-8">
+          <mxGeometry x="550" y="660.5" width="60" height="123" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-10" value="Task 2: Evaluation Method Bias Analysis" style="swimlane;startSize=50;fillColor=#BF2222;strokeWidth=4;strokeColor=#BF2222;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=19;fontColor=#FFFFFF;fontStyle=1;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="843.5" y="720" width="486.5" height="440" as="geometry" />
@@ -211,11 +214,8 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-187" value="Data&lt;div style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;Foundation&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=18;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Times New Roman;fontColor=#FFFF99;" vertex="1" parent="1">
           <mxGeometry x="90" y="870" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-196" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=17;fontColor=#000000;fillColor=none;gradientColor=none;arrowWidth=0.42005442108457586;arrowSize=0.6759261519820597;" vertex="1" parent="1">
-          <mxGeometry x="630" y="827" width="60" height="123" as="geometry" />
-        </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-197" value="" style="shape=corner;whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=17;fontColor=#000000;fillColor=none;gradientColor=none;dx=50;dy=50;direction=north;" vertex="1" parent="1">
-          <mxGeometry x="220" y="830" width="310" height="100" as="geometry" />
+          <mxGeometry x="380" y="840" width="310" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
