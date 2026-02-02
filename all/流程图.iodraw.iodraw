@@ -57,7 +57,7 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-125" value="65%" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.partConcEllipse;startAngle=0;endAngle=0.65;arcWidth=0.2;strokeColor=none;fillColor=#10739E;fontSize=22;fontColor=#10739E;align=center;fontStyle=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-124">
           <mxGeometry width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-10" value="Task 2: Evaluation Method Bias Analysis" style="swimlane;startSize=50;fillColor=#BF2222;strokeWidth=4;strokeColor=#BF2222;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=21;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="taiZRPC4KZry2tKcoWq6-10" value="Task 2: Evaluation Method Bias Analysis" style="swimlane;startSize=50;fillColor=#BF2222;strokeWidth=4;strokeColor=#BF2222;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=21;fontColor=#FFFFFF;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="850" y="730" width="450" height="420" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-36" value="&lt;h3 data-end=&quot;1019&quot; data-start=&quot;993&quot; style=&quot;font-size: 17px;&quot;&gt;Inferred Fan Votes&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3B7500;fontFamily=Times New Roman;fontColor=#F7F7C6;fontSize=17;strokeWidth=0;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-10">
@@ -133,7 +133,7 @@
           <mxGeometry x="80" y="930" width="670" height="520" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-49" value="&lt;h3 data-end=&quot;3409&quot; data-start=&quot;3384&quot;&gt;Identified Issues&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;l&lt;/span&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3B7500;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-14">
-          <mxGeometry x="100" y="150" width="170" height="290" as="geometry" />
+          <mxGeometry x="100" y="150" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-48" value="&lt;h3 data-end=&quot;3632&quot; data-start=&quot;3602&quot;&gt;&amp;nbsp;Performance Evaluation&lt;/h3&gt;&lt;br/&gt;&lt;p data-end=&quot;3639&quot; data-start=&quot;3633&quot;&gt;&lt;strong data-end=&quot;3639&quot; data-start=&quot;3633&quot;&gt;写：&lt;/strong&gt;&lt;/p&gt;&lt;br/&gt;&lt;ul data-end=&quot;3696&quot; data-start=&quot;3640&quot;&gt;&lt;br/&gt;&lt;li data-end=&quot;3664&quot; data-start=&quot;3640&quot;&gt;&lt;br/&gt;&lt;p data-end=&quot;3664&quot; data-start=&quot;3642&quot;&gt;Fairness Improvement&lt;/p&gt;&lt;br/&gt;&lt;/li&gt;&lt;br/&gt;&lt;li data-end=&quot;3681&quot; data-start=&quot;3665&quot;&gt;&lt;br/&gt;&lt;p data-end=&quot;3681&quot; data-start=&quot;3667&quot;&gt;Reduced Bias&lt;/p&gt;&lt;br/&gt;&lt;/li&gt;&lt;br/&gt;&lt;li data-end=&quot;3696&quot; data-start=&quot;3682&quot;&gt;&lt;br/&gt;&lt;p data-end=&quot;3696&quot; data-start=&quot;3684&quot;&gt;Robustness&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F7F7C6;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-14">
           <mxGeometry x="500" y="160" width="120" height="60" as="geometry" />
