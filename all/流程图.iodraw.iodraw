@@ -30,11 +30,8 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-53" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.36666870117187783;arrowSize=0.2077924720136617;fillColor=#004D00;strokeWidth=0;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-8">
           <mxGeometry x="170" y="370" width="50" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=18;fontColor=#000000;fontStyle=3;labelBorderColor=none;resizable=1;" edge="1" parent="taiZRPC4KZry2tKcoWq6-8" source="taiZRPC4KZry2tKcoWq6-55" target="taiZRPC4KZry2tKcoWq6-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-55" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-8">
-          <mxGeometry x="157.5" y="503.5" width="310" height="70" as="geometry" />
+          <mxGeometry x="210" y="503.5" width="257.5" height="66.5" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-58" value="&lt;li data-start=&quot;2072&quot; data-end=&quot;2095&quot; style=&quot;font-size: 19px;&quot;&gt;&lt;p data-start=&quot;2074&quot; data-end=&quot;2095&quot; style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Supervised Learning&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;&lt;li data-start=&quot;2072&quot; data-end=&quot;2095&quot; style=&quot;font-size: 19px;&quot;&gt;&lt;p data-start=&quot;2074&quot; data-end=&quot;2095&quot; style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Limited Consistency&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="taiZRPC4KZry2tKcoWq6-8">
           <mxGeometry x="80" y="643" width="200" height="120" as="geometry" />
