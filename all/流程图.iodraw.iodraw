@@ -108,6 +108,12 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-112" value="&#xa;Effect on Fan Votes&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=18;fontColor=#000000;fontStyle=3;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-11">
           <mxGeometry x="130" y="420" width="200" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-113" value="&#xa;Effect on Judge Scores&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=18;fontColor=#000000;fontStyle=3;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-11">
+          <mxGeometry x="75" y="485" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-66" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#F19C99;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.cluster;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-11">
+          <mxGeometry x="382" y="167" width="78" height="78" as="geometry" />
+        </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-12" value="Insights &amp; Recommendations" style="swimlane;startSize=40;fillColor=#BF2222;strokeColor=#BF2222;strokeWidth=4;perimeterSpacing=0;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="855" y="1180" width="450" height="260" as="geometry" />
         </mxCell>
@@ -141,17 +147,11 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-87" value="&lt;font color=&quot;#004d00&quot; style=&quot;font-size: 13px;&quot; face=&quot;Times New Roman&quot;&gt;Season Random Effect&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3B7500;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;fillColor=#F7F7C6;" vertex="1" parent="1">
           <mxGeometry x="1490" y="510" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-66" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#F19C99;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.cluster;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="40" width="78" height="78" as="geometry" />
-        </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-99" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=22;arrowHead=70;dx2=35;strokeColor=#ffffff;fillColor=#10739E;fontSize=12;fontColor=#3333FF;flipH=1;flipV=1;strokeWidth=4;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="890" y="200" width="330" height="140" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-41" value="&lt;h3 data-end=&quot;2268&quot; data-start=&quot;2242&quot; style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;Celebrity Features&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3B7500;strokeWidth=0;fontFamily=Times New Roman;fontSize=18;fontColor=#F7F7C6;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="200" width="110" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-113" value="&#xa;Effect on Judge Scores&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=18;fontColor=#000000;fontStyle=3;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="600" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
