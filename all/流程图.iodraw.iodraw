@@ -208,8 +208,8 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-187" value="Data&lt;div style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;Foundation&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=18;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Times New Roman;fontColor=#FFFF99;" vertex="1" parent="1">
           <mxGeometry x="90" y="870" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-191" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=17;fontColor=#000000;fillColor=none;gradientColor=none;arrowWidth=0.6267861502511138;arrowSize=0.4593073593073585;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="510" width="300" height="260" as="geometry" />
+        <mxCell id="taiZRPC4KZry2tKcoWq6-191" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=17;fontColor=#000000;fillColor=none;gradientColor=none;arrowWidth=0.6340666047819354;arrowSize=0.4115078396267358;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="510" width="360" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
