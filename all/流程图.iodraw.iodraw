@@ -48,7 +48,7 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-36" value="&lt;h3 data-end=&quot;1019&quot; data-start=&quot;993&quot;&gt;Inferred Fan Votes&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3B7500;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-10">
           <mxGeometry x="45" y="63" width="160" height="107" as="geometry" />
         </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-37" value="&#xa;Outcome Comparison&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-10">
+        <mxCell id="taiZRPC4KZry2tKcoWq6-37" value="&#xa;Outcome Comparison&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2774C2;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-10">
           <mxGeometry x="235" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-39" value="&lt;h3 data-end=&quot;1323&quot; data-start=&quot;1295&quot;&gt;Controversy Analysis&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-10">
