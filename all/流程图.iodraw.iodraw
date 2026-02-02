@@ -69,7 +69,7 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-40" value="Elimination Rules" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F7F7C6;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-10">
           <mxGeometry x="245" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-127" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 20px;&quot;&gt;Outcome Comparison&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=0;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=20;fontColor=#FFFFFF;fillColor=#2774C2;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-10">
+        <mxCell id="taiZRPC4KZry2tKcoWq6-127" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;Outcome Comparison&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=0;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=19;fontColor=default;fillColor=#2774C2;fontStyle=1;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-10">
           <mxGeometry x="95" y="117" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-11" value="Task 3: Celebrity &amp; Professional Influence" style="swimlane;startSize=57;fillColor=#BF2222;strokeWidth=4;strokeColor=#BF2222;fontSize=18;fontColor=#FFFFFF;" vertex="1" parent="1">
