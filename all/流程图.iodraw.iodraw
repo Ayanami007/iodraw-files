@@ -156,11 +156,10 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-43" value="&lt;h3 data-end=&quot;2440&quot; data-start=&quot;2412&quot;&gt;&amp;nbsp;Influence Estimation&lt;/h3&gt;&lt;br/&gt;&lt;p data-end=&quot;2447&quot; data-start=&quot;2441&quot;&gt;&lt;strong data-end=&quot;2447&quot; data-start=&quot;2441&quot;&gt;写：&lt;/strong&gt;&lt;/p&gt;&lt;br/&gt;&lt;ul data-end=&quot;2498&quot; data-start=&quot;2448&quot;&gt;&lt;br/&gt;&lt;li data-end=&quot;2471&quot; data-start=&quot;2448&quot;&gt;&lt;br/&gt;&lt;p data-end=&quot;2471&quot; data-start=&quot;2450&quot;&gt;Effect on Fan Votes&lt;/p&gt;&lt;br/&gt;&lt;/li&gt;&lt;br/&gt;&lt;li data-end=&quot;2498&quot; data-start=&quot;2472&quot;&gt;&lt;br/&gt;&lt;p data-end=&quot;2498&quot; data-start=&quot;2474&quot;&gt;Effect on Judge Scores&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F7F7C6;" vertex="1" parent="1">
           <mxGeometry x="1540" y="110" width="120" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-86" value="&lt;font color=&quot;#004d00&quot; style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Fixed Effects&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3B7500;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;fillColor=#F7F7C6;" vertex="1" parent="1">
-          <mxGeometry x="1510" y="450" width="50" as="geometry" />
-        </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=18;fontColor=#F7F7C6;labelBorderColor=none;resizable=1;" edge="1" parent="1" source="taiZRPC4KZry2tKcoWq6-86" target="taiZRPC4KZry2tKcoWq6-105">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="taiZRPC4KZry2tKcoWq6-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=18;fontColor=#F7F7C6;labelBorderColor=none;resizable=1;" edge="1" parent="1" target="taiZRPC4KZry2tKcoWq6-105">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1510" y="505" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
