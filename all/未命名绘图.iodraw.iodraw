@@ -1,13 +1,16 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="bHzsQdMzay1tOq-vHCDs">
-    <mxGraphModel dx="2227" dy="2896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2227" dy="1242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1654" math="0" shadow="0">
       <root>
         <object label="" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
         <mxCell id="taiZRPC4KZry2tKcoWq6-8" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="1">
-          <mxGeometry x="80" y="77" width="1195" height="1193" as="geometry" />
+          <mxGeometry x="80" y="77" width="1210" height="1193" as="geometry" />
+        </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-19" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star" vertex="1" parent="taiZRPC4KZry2tKcoWq6-8">
+          <mxGeometry x="20" y="-77" width="720" height="697" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-10" value="Container" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="870" y="77" width="450" height="423" as="geometry" />
@@ -15,17 +18,11 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-11" value="Container" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="870" y="570" width="940" height="880" as="geometry" />
         </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-19" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star" vertex="1" parent="taiZRPC4KZry2tKcoWq6-11">
-          <mxGeometry x="-620" y="-610" width="1190" height="980" as="geometry" />
-        </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-12" value="Container" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="870" y="1190" width="450" height="260" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-14" value="Container" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="80" y="930" width="670" height="520" as="geometry" />
-        </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="80" width="100" height="1370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
