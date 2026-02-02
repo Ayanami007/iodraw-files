@@ -141,6 +141,36 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-43" value="&lt;h3 data-end=&quot;2440&quot; data-start=&quot;2412&quot;&gt;&amp;nbsp;Influence Estimation&lt;/h3&gt;&lt;br/&gt;&lt;p data-end=&quot;2447&quot; data-start=&quot;2441&quot;&gt;&lt;strong data-end=&quot;2447&quot; data-start=&quot;2441&quot;&gt;写：&lt;/strong&gt;&lt;/p&gt;&lt;br/&gt;&lt;ul data-end=&quot;2498&quot; data-start=&quot;2448&quot;&gt;&lt;br/&gt;&lt;li data-end=&quot;2471&quot; data-start=&quot;2448&quot;&gt;&lt;br/&gt;&lt;p data-end=&quot;2471&quot; data-start=&quot;2450&quot;&gt;Effect on Fan Votes&lt;/p&gt;&lt;br/&gt;&lt;/li&gt;&lt;br/&gt;&lt;li data-end=&quot;2498&quot; data-start=&quot;2472&quot;&gt;&lt;br/&gt;&lt;p data-end=&quot;2498&quot; data-start=&quot;2474&quot;&gt;Effect on Judge Scores&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F7F7C6;" vertex="1" parent="1">
           <mxGeometry x="1540" y="110" width="120" height="340" as="geometry" />
         </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-95" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=22;arrowHead=70;dx2=35;strokeColor=#ffffff;fillColor=#12AAB5;fontSize=12;fontColor=#3333FF;flipH=1;flipV=1;strokeWidth=4;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="960" y="516" width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-96" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=22;arrowHead=70;dx2=35;strokeColor=#ffffff;fillColor=#23445D;fontSize=12;fontColor=#3333FF;flipV=1;strokeWidth=4;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="890" y="437" width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-97" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=22;arrowHead=70;dx2=35;strokeColor=#ffffff;fillColor=#AE4132;fontSize=12;fontColor=#3333FF;flipH=1;flipV=1;strokeWidth=4;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="960" y="358" width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-98" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=22;arrowHead=70;dx2=35;strokeColor=#ffffff;fillColor=#F2931E;fontSize=12;fontColor=#3333FF;flipV=1;strokeWidth=4;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="890" y="279" width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-99" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=22;arrowHead=70;dx2=35;strokeColor=#ffffff;fillColor=#10739E;fontSize=12;fontColor=#3333FF;flipH=1;flipV=1;strokeWidth=4;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="890" y="200" width="300" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-100" value="&lt;b style=&quot;font-size: 7px&quot;&gt;LABEL&lt;/b&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." style="rounded=0;whiteSpace=wrap;shadow=0;strokeColor=none;strokeWidth=6;fillColor=none;fontSize=7;fontColor=#FFFFFF;align=left;html=1;spacingLeft=5;verticalAlign=middle;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="940" y="200" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-101" value="&lt;b style=&quot;font-size: 7px&quot;&gt;LABEL&lt;/b&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." style="rounded=0;whiteSpace=wrap;shadow=0;strokeColor=none;strokeWidth=6;fillColor=none;fontSize=7;fontColor=#FFFFFF;align=left;html=1;spacingLeft=5;verticalAlign=middle;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="940" y="279" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-102" value="&lt;b style=&quot;font-size: 7px&quot;&gt;LABEL&lt;/b&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." style="rounded=0;whiteSpace=wrap;shadow=0;strokeColor=none;strokeWidth=6;fillColor=none;fontSize=7;fontColor=#FFFFFF;align=left;html=1;spacingLeft=5;verticalAlign=middle;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="990" y="358" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-103" value="&lt;b style=&quot;font-size: 7px&quot;&gt;LABEL&lt;/b&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." style="rounded=0;whiteSpace=wrap;shadow=0;strokeColor=none;strokeWidth=6;fillColor=none;fontSize=7;fontColor=#FFFFFF;align=left;html=1;spacingLeft=5;verticalAlign=middle;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="940" y="437" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-104" value="&lt;b style=&quot;font-size: 7px&quot;&gt;LABEL&lt;/b&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." style="rounded=0;whiteSpace=wrap;shadow=0;strokeColor=none;strokeWidth=6;fillColor=none;fontSize=7;fontColor=#FFFFFF;align=left;html=1;spacingLeft=5;verticalAlign=middle;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="990" y="516" width="150" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
