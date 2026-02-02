@@ -156,15 +156,6 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-99" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=22;arrowHead=70;dx2=35;strokeColor=#ffffff;fillColor=#10739E;fontSize=12;fontColor=#3333FF;flipH=1;flipV=1;strokeWidth=4;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="890" y="200" width="300" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-100" value="&lt;b style=&quot;font-size: 7px&quot;&gt;LABEL&lt;/b&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." style="rounded=0;whiteSpace=wrap;shadow=0;strokeColor=none;strokeWidth=6;fillColor=none;fontSize=7;fontColor=#FFFFFF;align=left;html=1;spacingLeft=5;verticalAlign=middle;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="940" y="200" width="150" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-101" value="&lt;b style=&quot;font-size: 7px&quot;&gt;LABEL&lt;/b&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." style="rounded=0;whiteSpace=wrap;shadow=0;strokeColor=none;strokeWidth=6;fillColor=none;fontSize=7;fontColor=#FFFFFF;align=left;html=1;spacingLeft=5;verticalAlign=middle;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="940" y="279" width="150" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-102" value="&lt;b style=&quot;font-size: 7px&quot;&gt;LABEL&lt;/b&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." style="rounded=0;whiteSpace=wrap;shadow=0;strokeColor=none;strokeWidth=6;fillColor=none;fontSize=7;fontColor=#FFFFFF;align=left;html=1;spacingLeft=5;verticalAlign=middle;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="990" y="358" width="150" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-103" value="&lt;b style=&quot;font-size: 7px&quot;&gt;LABEL&lt;/b&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." style="rounded=0;whiteSpace=wrap;shadow=0;strokeColor=none;strokeWidth=6;fillColor=none;fontSize=7;fontColor=#FFFFFF;align=left;html=1;spacingLeft=5;verticalAlign=middle;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="940" y="437" width="150" height="40" as="geometry" />
         </mxCell>
