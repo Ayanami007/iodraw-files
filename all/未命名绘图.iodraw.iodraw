@@ -24,6 +24,9 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-27" value="MCMC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-8">
           <mxGeometry x="230" y="613" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="taiZRPC4KZry2tKcoWq6-8" source="taiZRPC4KZry2tKcoWq6-31" target="taiZRPC4KZry2tKcoWq6-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-31" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-8">
           <mxGeometry x="170" y="243" width="40" height="50" as="geometry" />
         </mxCell>
