@@ -16,13 +16,13 @@
           <mxGeometry x="130" y="463" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-29" value="BP-LSTM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-8">
-          <mxGeometry x="370" y="83" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="273" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-25" value="Hierarchical Bayesian Model" style="whiteSpace=wrap;html=1;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-8">
           <mxGeometry x="60" y="83" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-27" value="MCMC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-8">
-          <mxGeometry x="10" y="253" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="263" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-10" value="Task 2: Evaluation Method Bias Analysis" style="swimlane;startSize=50;fillColor=#BF2222;strokeWidth=4;strokeColor=#BF2222;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=21;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="850" y="77" width="450" height="420" as="geometry" />
