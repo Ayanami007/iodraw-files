@@ -94,9 +94,9 @@
           <mxGeometry x="30" y="320" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-87" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3B7500;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;fillColor=#F7F7C6;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-11">
-          <mxGeometry x="120" y="370" width="90" height="60" as="geometry" />
+          <mxGeometry x="130" y="410" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-86" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3B7500;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;fillColor=#F7F7C6;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-11">
+        <mxCell id="taiZRPC4KZry2tKcoWq6-86" value="Fixed Effects" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3B7500;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;fillColor=#F7F7C6;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-11">
           <mxGeometry x="10" y="410" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-12" value="Insights &amp; Recommendations" style="swimlane;startSize=40;fillColor=#BF2222;strokeColor=#BF2222;strokeWidth=4;perimeterSpacing=0;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="1">
