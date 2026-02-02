@@ -12,13 +12,13 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-10" value="Container" style="swimlane;startSize=50;" vertex="1" parent="1">
           <mxGeometry x="870" y="80" width="450" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-11" value="Container" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="taiZRPC4KZry2tKcoWq6-11" value="Container" style="swimlane;startSize=57;" vertex="1" parent="1">
           <mxGeometry x="860" y="563" width="460" height="527" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-12" value="Container" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="870" y="1190" width="450" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-14" value="Container" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="taiZRPC4KZry2tKcoWq6-14" value="Container" style="swimlane;startSize=70;" vertex="1" parent="1">
           <mxGeometry x="80" y="930" width="670" height="520" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-19" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;direction=south;" vertex="1" parent="1">
