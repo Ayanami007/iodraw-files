@@ -33,18 +33,6 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-59" value="&lt;li style=&quot;font-size: 19px;&quot; data-end=&quot;2262&quot; data-start=&quot;2235&quot;&gt;&lt;p style=&quot;font-size: 19px;&quot; data-end=&quot;2262&quot; data-start=&quot;2237&quot;&gt;Elimination Consistency&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 19px;&quot; data-end=&quot;2289&quot; data-start=&quot;2263&quot;&gt;&lt;p style=&quot;font-size: 19px;&quot; data-end=&quot;2289&quot; data-start=&quot;2265&quot;&gt;Uncertainty Comparison&lt;/p&gt;&lt;/li&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontStyle=1" vertex="1" parent="taiZRPC4KZry2tKcoWq6-8">
           <mxGeometry x="340" y="643" width="230" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-77" value="Process Bar" style="swimlane;childLayout=stackLayout;horizontal=1;fillColor=none;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;strokeColor=none;stackBorder=10;stackSpacing=-12;resizable=1;align=center;points=[];whiteSpace=wrap;html=1;rounded=0;strokeWidth=4;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-8">
-          <mxGeometry x="330" y="250" width="296" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-78" value="Step 1" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=0;strokeColor=#3B7500;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;fillColor=#F7F7C6;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-77">
-          <mxGeometry x="10" y="33" width="100" height="57" as="geometry" />
-        </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-79" value="Step 2" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=0;strokeColor=#3B7500;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;fillColor=#F7F7C6;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-77">
-          <mxGeometry x="98" y="33" width="100" height="57" as="geometry" />
-        </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-80" value="Step 3" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=0;strokeColor=#3B7500;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;fillColor=#F7F7C6;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-77">
-          <mxGeometry x="186" y="33" width="100" height="57" as="geometry" />
-        </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-29" value="&lt;font style=&quot;font-size: 24px;&quot; face=&quot;Times New Roman&quot;&gt;BP-LSTM&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E1D5E7;fontStyle=1;fontSize=29;fontColor=#685073;strokeWidth=5;strokeColor=#685073;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-8">
           <mxGeometry x="133.75" y="577" width="167.5" height="67" as="geometry" />
         </mxCell>
@@ -58,7 +46,7 @@
           <mxGeometry width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-10" value="Task 2: Evaluation Method Bias Analysis" style="swimlane;startSize=50;fillColor=#BF2222;strokeWidth=4;strokeColor=#BF2222;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=21;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="850" y="720" width="450" height="420" as="geometry" />
+          <mxGeometry x="850" y="720" width="466" height="420" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-36" value="&lt;h3 data-end=&quot;1019&quot; data-start=&quot;993&quot; style=&quot;font-size: 17px;&quot;&gt;Inferred Fan Votes&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3B7500;fontFamily=Times New Roman;fontColor=#F7F7C6;fontSize=17;strokeWidth=0;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-10">
           <mxGeometry x="15" y="63" width="155" height="37" as="geometry" />
@@ -74,6 +62,18 @@
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-143" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;li style=&quot;font-size: 16px;&quot; data-end=&quot;1054&quot; data-start=&quot;1027&quot;&gt;&lt;p style=&quot;&quot; data-end=&quot;1054&quot; data-start=&quot;1029&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Inferred Fan Vote Share&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot; data-end=&quot;1075&quot; data-start=&quot;1055&quot;&gt;&lt;p style=&quot;&quot; data-end=&quot;1075&quot; data-start=&quot;1057&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Unified Baseline&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=17;fontColor=#000000;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-10">
           <mxGeometry x="215" y="96.5" width="120" height="3.5" as="geometry" />
+        </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-77" value="Process Bar" style="swimlane;childLayout=stackLayout;horizontal=1;fillColor=none;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;strokeColor=none;stackBorder=10;stackSpacing=-12;resizable=1;align=center;points=[];whiteSpace=wrap;html=1;rounded=0;strokeWidth=4;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-10">
+          <mxGeometry x="170" y="107" width="296" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-78" value="Step 1" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=0;strokeColor=#3B7500;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;fillColor=#F7F7C6;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-77">
+          <mxGeometry x="10" y="33" width="100" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-79" value="Step 2" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=0;strokeColor=#3B7500;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;fillColor=#F7F7C6;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-77">
+          <mxGeometry x="98" y="33" width="100" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-80" value="Step 3" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=0;strokeColor=#3B7500;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;fillColor=#F7F7C6;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-77">
+          <mxGeometry x="186" y="33" width="100" height="57" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-11" value="Task 3: Celebrity &amp; Professional Influence" style="swimlane;startSize=57;fillColor=#BF2222;strokeWidth=4;strokeColor=#BF2222;fontSize=18;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="850" y="90" width="483" height="600" as="geometry" />
