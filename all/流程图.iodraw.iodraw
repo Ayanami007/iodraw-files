@@ -60,8 +60,8 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-10" value="Task 2: Evaluation Method Bias Analysis" style="swimlane;startSize=50;fillColor=#BF2222;strokeWidth=4;strokeColor=#BF2222;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=21;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="855" y="710" width="450" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-36" value="&lt;h3 data-start=&quot;993&quot; data-end=&quot;1019&quot;&gt;Inferred Fan Votes&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3B7500;fontFamily=Times New Roman;fontColor=#F7F7C6;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-10">
-          <mxGeometry x="45" y="63" width="160" height="107" as="geometry" />
+        <mxCell id="taiZRPC4KZry2tKcoWq6-36" value="&lt;h3 data-end=&quot;1019&quot; data-start=&quot;993&quot; style=&quot;font-size: 17px;&quot;&gt;Inferred Fan Votes&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3B7500;fontFamily=Times New Roman;fontColor=#F7F7C6;fontSize=17;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-10">
+          <mxGeometry x="45" y="63" width="155" height="37" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-37" value="&#xa;Outcome Comparison&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2774C2;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-10">
           <mxGeometry x="235" y="140" width="120" height="60" as="geometry" />
