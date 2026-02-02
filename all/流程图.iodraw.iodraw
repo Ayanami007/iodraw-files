@@ -112,7 +112,7 @@
           <mxGeometry x="10" y="180" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-86" value="&lt;font color=&quot;#004d00&quot; style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Fixed Effects&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3B7500;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;fillColor=#F7F7C6;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-11">
-          <mxGeometry x="20" y="340" width="50" as="geometry" />
+          <mxGeometry x="15" y="330" width="50" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-90" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;resizable=1;entryX=0.187;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="taiZRPC4KZry2tKcoWq6-11" source="taiZRPC4KZry2tKcoWq6-87" target="taiZRPC4KZry2tKcoWq6-45">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
