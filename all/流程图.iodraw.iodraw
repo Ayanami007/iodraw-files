@@ -87,6 +87,9 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-149" value="Bottom-2 Mechanism" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=17;fontColor=#000000;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-10">
           <mxGeometry x="225" y="215" width="180" height="15" as="geometry" />
         </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.72;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;fontSize=17;fontColor=#FFFFFF;fontStyle=1;labelBorderColor=none;resizable=1;" edge="1" parent="taiZRPC4KZry2tKcoWq6-10" source="taiZRPC4KZry2tKcoWq6-127" target="taiZRPC4KZry2tKcoWq6-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-11" value="Task 3: Celebrity &amp; Professional Influence" style="swimlane;startSize=57;fillColor=#BF2222;strokeWidth=4;strokeColor=#BF2222;fontSize=18;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="850" y="90" width="483" height="600" as="geometry" />
         </mxCell>
