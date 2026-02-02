@@ -57,6 +57,9 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-27" value="MCMC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3B7500;strokeWidth=0;fontColor=#FFFF99;fontSize=32;fontFamily=Times New Roman;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-8">
           <mxGeometry x="360" y="570" width="190" height="74" as="geometry" />
         </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-122" value="65%" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.partConcEllipse;startAngle=0;endAngle=0.65;arcWidth=0.2;strokeColor=none;fillColor=#10739E;fontSize=22;fontColor=#10739E;align=center;fontStyle=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-8">
+          <mxGeometry x="560" y="550" width="100" height="100" as="geometry" />
+        </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-10" value="Task 2: Evaluation Method Bias Analysis" style="swimlane;startSize=50;fillColor=#BF2222;strokeWidth=4;strokeColor=#BF2222;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=21;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="855" y="710" width="450" height="420" as="geometry" />
         </mxCell>
@@ -130,7 +133,7 @@
           <mxGeometry x="1770" y="330" width="800" height="750" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-23" value="&lt;div style=&quot;direction: ltr;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;direction=south;fillColor=#004D00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="80" width="80" height="1370" as="geometry" />
+          <mxGeometry x="760" y="80" width="80" height="1370" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-65" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Service_Fabric_Clusters.svg;" vertex="1" parent="1">
           <mxGeometry x="1310" y="-20" width="67" height="64" as="geometry" />
@@ -154,10 +157,7 @@
           <mxGeometry x="1530" y="60" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-121" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=10;strokeColor=none;fillColor=#10739E;fontSize=10;align=center;fillOpacity=20;rounded=0;fontFamily=Helvetica;fontColor=#000000;fontStyle=3;" vertex="1" parent="1">
-          <mxGeometry x="730" y="440" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-122" value="65%" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.partConcEllipse;startAngle=0;endAngle=0.65;arcWidth=0.2;strokeColor=none;fillColor=#10739E;fontSize=22;fontColor=#10739E;align=center;fontStyle=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-121">
-          <mxGeometry width="100" height="100" as="geometry" />
+          <mxGeometry x="750" y="440" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
