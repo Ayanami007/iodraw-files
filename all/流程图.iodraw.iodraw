@@ -22,7 +22,7 @@
           <mxGeometry x="155" y="220" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-53" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.36666870117187783;arrowSize=0.2077924720136617;fillColor=#004D00;strokeWidth=0;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-8">
-          <mxGeometry x="170" y="370" width="50" height="70" as="geometry" />
+          <mxGeometry x="155" y="370" width="50" height="70" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-55" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-8">
           <mxGeometry x="220" y="500" width="257.5" height="86.5" as="geometry" />
