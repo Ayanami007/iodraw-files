@@ -73,7 +73,7 @@
           <mxGeometry x="245" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-11" value="Task 3: Celebrity &amp; Professional Influence" style="swimlane;startSize=57;fillColor=#BF2222;strokeWidth=4;strokeColor=#BF2222;fontSize=18;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="840" y="70" width="460" height="580" as="geometry" />
+          <mxGeometry x="850" y="80" width="460" height="580" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-44" value="&lt;h3 data-end=&quot;2527&quot; data-start=&quot;2505&quot;&gt;Preference Gap&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2774C2;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-11">
           <mxGeometry x="297.5" y="490" width="120" height="60" as="geometry" />
@@ -96,7 +96,7 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-87" value="Season Random Effect" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3B7500;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;fillColor=#F7F7C6;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-11">
           <mxGeometry x="130" y="410" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-86" value="Fixed Effects" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3B7500;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;fillColor=#F7F7C6;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-11">
+        <mxCell id="taiZRPC4KZry2tKcoWq6-86" value="&lt;font color=&quot;#004d00&quot; style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Fixed Effects&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3B7500;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;fillColor=#F7F7C6;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-11">
           <mxGeometry x="10" y="410" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-90" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;resizable=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.7;entryY=1.081;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="taiZRPC4KZry2tKcoWq6-11" source="taiZRPC4KZry2tKcoWq6-87" target="taiZRPC4KZry2tKcoWq6-45">
