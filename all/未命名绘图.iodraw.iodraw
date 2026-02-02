@@ -10,7 +10,7 @@
           <mxGeometry x="80" y="77" width="670" height="793" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-26" value="Latent Fan Vote Share" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-8">
-          <mxGeometry x="140" y="303" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="263" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-28" value="Consistency &amp;amp; Certainty" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-8">
           <mxGeometry x="120" y="483" width="120" height="60" as="geometry" />
