@@ -106,7 +106,7 @@
           <mxGeometry x="240" y="245" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-112" value="&#xa;Effect on Fan Votes&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=18;fontColor=#000000;fontStyle=3;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-11">
-          <mxGeometry x="180" y="408" width="200" height="30" as="geometry" />
+          <mxGeometry x="130" y="420" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-12" value="Insights &amp; Recommendations" style="swimlane;startSize=40;fillColor=#BF2222;strokeColor=#BF2222;strokeWidth=4;perimeterSpacing=0;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="855" y="1180" width="450" height="260" as="geometry" />
@@ -149,6 +149,9 @@
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-41" value="&lt;h3 data-end=&quot;2268&quot; data-start=&quot;2242&quot; style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;Celebrity Features&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3B7500;strokeWidth=0;fontFamily=Times New Roman;fontSize=18;fontColor=#F7F7C6;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="200" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-113" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=18;fontColor=#000000;fontStyle=3;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="600" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
