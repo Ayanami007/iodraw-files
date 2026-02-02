@@ -136,7 +136,7 @@
           <mxGeometry x="105" y="70" width="180" height="140" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-14" value="Task 4: Scoring System Redesign" style="swimlane;startSize=70;fillColor=#BF2222;strokeWidth=4;strokeColor=#BF2222;fontSize=21;fontColor=#FFFFFF;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="70" y="980" width="650" height="520" as="geometry" />
+          <mxGeometry x="70" y="910" width="650" height="590" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-170" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=17;fontColor=#000000;fontStyle=1;labelBorderColor=none;resizable=1;entryX=0.429;entryY=0.083;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="taiZRPC4KZry2tKcoWq6-14" source="taiZRPC4KZry2tKcoWq6-49" target="taiZRPC4KZry2tKcoWq6-47">
           <mxGeometry relative="1" as="geometry">
@@ -203,7 +203,7 @@
           <mxGeometry x="740" y="690" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-183" value="Signal" style="html=1;shape=mxgraph.sysml.sendSigAct;strokeWidth=2;whiteSpace=wrap;align=center;rounded=0;verticalAlign=middle;fontFamily=Times New Roman;fontSize=17;fontColor=#000000;fillColor=none;gradientColor=none;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="60" y="847" width="140" height="193" as="geometry" />
+          <mxGeometry x="70" y="843.5" width="140" height="193" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
