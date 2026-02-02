@@ -10,7 +10,7 @@
           <mxGeometry x="80" y="77" width="670" height="793" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-26" value="Latent Fan Vote Share" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-8">
-          <mxGeometry x="100" y="263" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="263" width="160" height="77" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-28" value="Consistency &amp;amp; Certainty" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-8">
           <mxGeometry x="220" y="443" width="120" height="60" as="geometry" />
@@ -19,7 +19,7 @@
           <mxGeometry x="40" y="623" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-25" value="Hierarchical Bayesian Model" style="whiteSpace=wrap;html=1;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-8">
-          <mxGeometry x="340" y="143" width="200" height="140" as="geometry" />
+          <mxGeometry x="130" y="73" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-27" value="MCMC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-8">
           <mxGeometry x="230" y="613" width="120" height="60" as="geometry" />
