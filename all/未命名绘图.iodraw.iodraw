@@ -24,7 +24,7 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-19" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1770" y="330" width="800" height="750" as="geometry" />
         </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-22" value="NNNJBHB" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#004D00;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="taiZRPC4KZry2tKcoWq6-22" value="M" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#004D00;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="760" y="77" width="80" height="1373" as="geometry" />
         </mxCell>
       </root>
