@@ -79,7 +79,7 @@
           <mxGeometry x="210" y="110" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-147" value="&#xa;Ranking-based&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=17;fontColor=#000000;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-10">
-          <mxGeometry x="230" y="100" width="60" height="30" as="geometry" />
+          <mxGeometry x="220" y="110" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-11" value="Task 3: Celebrity &amp; Professional Influence" style="swimlane;startSize=57;fillColor=#BF2222;strokeWidth=4;strokeColor=#BF2222;fontSize=18;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="850" y="90" width="483" height="600" as="geometry" />
