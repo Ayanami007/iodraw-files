@@ -55,7 +55,7 @@
           <mxGeometry x="280" y="350" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-40" value="Elimination Rules" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F7F7C6;fontColor=#004D00;fontStyle=0;fontFamily=Times New Roman;fontSize=19;strokeWidth=3;strokeColor=#3B7500;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-10">
-          <mxGeometry x="15" y="140" width="195" height="60" as="geometry" />
+          <mxGeometry x="25" y="150" width="165" height="40" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-127" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;Outcome Comparison&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=0;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=19;fontColor=#FFFFFF;fillColor=#2774C2;fontStyle=1;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-10">
           <mxGeometry x="160" y="220" width="120" height="60" as="geometry" />
@@ -64,16 +64,16 @@
           <mxGeometry x="215" y="96.5" width="120" height="3.5" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-77" value="Process Bar" style="swimlane;childLayout=stackLayout;horizontal=1;fillColor=none;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;strokeColor=none;stackBorder=10;stackSpacing=-12;resizable=1;align=center;points=[];whiteSpace=wrap;html=1;rounded=0;strokeWidth=4;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-10">
-          <mxGeometry x="170" y="107" width="296" height="103" as="geometry" />
+          <mxGeometry x="170" y="107" width="296" height="100" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-78" value="Step 1" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=0;strokeColor=#3B7500;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;fillColor=#F7F7C6;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-77">
-          <mxGeometry x="10" y="33" width="100" height="60" as="geometry" />
+          <mxGeometry x="10" y="33" width="100" height="57" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-79" value="Step 2" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=0;strokeColor=#3B7500;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;fillColor=#F7F7C6;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-77">
-          <mxGeometry x="98" y="33" width="100" height="60" as="geometry" />
+          <mxGeometry x="98" y="33" width="100" height="57" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-80" value="Step 3" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=0;strokeColor=#3B7500;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;fillColor=#F7F7C6;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-77">
-          <mxGeometry x="186" y="33" width="100" height="60" as="geometry" />
+          <mxGeometry x="186" y="33" width="100" height="57" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-11" value="Task 3: Celebrity &amp; Professional Influence" style="swimlane;startSize=57;fillColor=#BF2222;strokeWidth=4;strokeColor=#BF2222;fontSize=18;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="850" y="90" width="483" height="600" as="geometry" />
