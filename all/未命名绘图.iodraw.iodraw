@@ -10,7 +10,7 @@
           <mxGeometry x="80" y="77" width="670" height="793" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-26" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Latent Fan Vote Share&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3B7500;labelBorderColor=#3B7500;strokeWidth=0;fontColor=#FFFFCC;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-8">
-          <mxGeometry x="100" y="273" width="190" height="87" as="geometry" />
+          <mxGeometry x="95" y="346" width="190" height="87" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-28" value="Consistency &amp;amp; Certainty" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-8">
           <mxGeometry x="180" y="433" width="120" height="60" as="geometry" />
@@ -26,6 +26,9 @@
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-31" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-8">
           <mxGeometry x="180" y="193" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=20;exitDy=26;exitPerimeter=0;entryX=0;entryY=0;entryDx=40;entryDy=40;entryPerimeter=0;" edge="1" parent="taiZRPC4KZry2tKcoWq6-8" source="taiZRPC4KZry2tKcoWq6-31" target="taiZRPC4KZry2tKcoWq6-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-10" value="Task 2: Evaluation Method Bias Analysis" style="swimlane;startSize=50;fillColor=#BF2222;strokeWidth=4;strokeColor=#BF2222;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=21;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="850" y="77" width="450" height="420" as="geometry" />
