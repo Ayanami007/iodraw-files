@@ -193,6 +193,9 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-175" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;direction=south;strokeWidth=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1690" y="255" width="790" height="755" as="geometry" />
         </mxCell>
+        <mxCell id="taiZRPC4KZry2tKcoWq6-176" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;direction=south;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="255" width="560" height="565" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
