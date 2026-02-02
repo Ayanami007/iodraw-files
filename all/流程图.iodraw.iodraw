@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="bHzsQdMzay1tOq-vHCDs">
-    <mxGraphModel dx="3340" dy="3517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="742" dy="2068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1654" math="0" shadow="0">
       <root>
         <object label="" id="0">
           <mxCell />
@@ -61,7 +61,7 @@
           <mxGeometry x="855" y="710" width="450" height="420" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-36" value="&lt;h3 data-end=&quot;1019&quot; data-start=&quot;993&quot; style=&quot;font-size: 17px;&quot;&gt;Inferred Fan Votes&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3B7500;fontFamily=Times New Roman;fontColor=#F7F7C6;fontSize=17;strokeWidth=0;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-10">
-          <mxGeometry x="35" y="63" width="155" height="37" as="geometry" />
+          <mxGeometry x="15" y="63" width="155" height="37" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-39" value="&lt;h3 data-end=&quot;1323&quot; data-start=&quot;1295&quot; style=&quot;font-size: 17px;&quot;&gt;Controversy Analysis&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3B7500;strokeWidth=0;fontFamily=Times New Roman;fontColor=#F7F7C6;fontStyle=1;fontSize=17;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-10">
           <mxGeometry x="135" y="320" width="125" height="50" as="geometry" />
@@ -70,7 +70,7 @@
           <mxGeometry x="85" y="250" width="165" height="40" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-127" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;Outcome Comparison&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=0;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=19;fontColor=#FFFFFF;fillColor=#2774C2;fontStyle=1;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-10">
-          <mxGeometry x="45" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="25" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-11" value="Task 3: Celebrity &amp; Professional Influence" style="swimlane;startSize=57;fillColor=#BF2222;strokeWidth=4;strokeColor=#BF2222;fontSize=18;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="850" y="90" width="483" height="600" as="geometry" />
