@@ -70,7 +70,7 @@
           <mxGeometry x="285" y="50" width="145" height="260" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-41" value="&lt;h3 data-end=&quot;2268&quot; data-start=&quot;2242&quot;&gt;&amp;nbsp;Celebrity Features&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3B7500;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-11">
-          <mxGeometry x="40" y="180" width="90" height="70" as="geometry" />
+          <mxGeometry x="40" y="180" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-12" value="Insights &amp; Recommendations" style="swimlane;startSize=40;fillColor=#BF2222;strokeColor=#BF2222;strokeWidth=4;perimeterSpacing=0;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="855" y="1180" width="450" height="260" as="geometry" />
