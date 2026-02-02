@@ -9,7 +9,7 @@
         <mxCell id="taiZRPC4KZry2tKcoWq6-8" value="&lt;h3 data-start=&quot;1103&quot; data-end=&quot;1140&quot; style=&quot;font-size: 21px;&quot;&gt;&lt;strong data-start=&quot;1107&quot; data-end=&quot;1140&quot; style=&quot;font-size: 21px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 21px;&quot;&gt;Task1:Core Bayesian Inference Model&lt;/font&gt;&lt;/strong&gt;&lt;/h3&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=53;fillColor=#BF2222;strokeWidth=5;strokeColor=#BF2222;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="80" y="77" width="670" height="793" as="geometry" />
         </mxCell>
-        <mxCell id="taiZRPC4KZry2tKcoWq6-10" value="Container" style="swimlane;startSize=50;fillColor=#BF2222;strokeWidth=4;strokeColor=#BF2222;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+        <mxCell id="taiZRPC4KZry2tKcoWq6-10" value="Container" style="swimlane;startSize=50;fillColor=#BF2222;strokeWidth=4;strokeColor=#BF2222;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="80" width="450" height="420" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-11" value="Container" style="swimlane;startSize=57;fillColor=#BF2222;strokeWidth=4;strokeColor=#BF2222;" vertex="1" parent="1">
