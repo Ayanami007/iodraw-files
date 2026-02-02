@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="bHzsQdMzay1tOq-vHCDs">
-    <mxGraphModel dx="954" dy="2186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2004" dy="2772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1654" math="0" shadow="0">
       <root>
         <object label="" id="0">
           <mxCell />
@@ -82,7 +82,7 @@
           <mxGeometry x="230" y="110" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-150" value="&#xa;Percentage-based&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=17;fontColor=#000000;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-10">
-          <mxGeometry x="240" y="150" width="160" as="geometry" />
+          <mxGeometry x="220" y="180" width="160" as="geometry" />
         </mxCell>
         <mxCell id="taiZRPC4KZry2tKcoWq6-149" value="Bottom-2 Mechanism" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=17;fontColor=#000000;" vertex="1" parent="taiZRPC4KZry2tKcoWq6-10">
           <mxGeometry x="225" y="215" width="180" height="15" as="geometry" />
